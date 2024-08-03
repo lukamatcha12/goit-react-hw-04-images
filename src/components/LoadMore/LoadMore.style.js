@@ -26,3 +26,4 @@ export const PaginationaBtn = styled.button`
     background-color: #303f9f;
   }
 `;
+
